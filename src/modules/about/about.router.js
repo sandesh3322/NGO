@@ -19,3 +19,4 @@ aboutRouter.delete('/:id',logincheck,  aboutCtrl.delete);
 
 module.exports = aboutRouter;
 
+
